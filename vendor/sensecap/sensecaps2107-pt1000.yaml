@@ -23,31 +23,31 @@ firmwareVersions:
         # Unique identifier of the profile (lowercase, alphanumeric with dashes, max 36 characters)
         id: sensecap-profile
         lorawanCertified: true
-        codec: sensecaps2107-pt1000-codec
+        codec: sensecaps2107-pt1000-code
       US902-928:
         id: sensecap-profile
         lorawanCertified: true
-        codec: sensecaps2107-pt1000-codec
+        codec: sensecaps2107-pt1000-code
       AU915-928:
         id: sensecap-profile
         lorawanCertified: true
-        codec: sensecaps2107-pt1000-codec
+        codec: sensecaps2107-pt1000-code
       KR920-923:
         id: sensecap-profile
         lorawanCertified: true
-        codec: sensecaps2107-pt1000-codec
+        codec: sensecaps2107-pt1000-code
       IN865-867:
         id: sensecap-profile
         lorawanCertified: true
-        codec: sensecaps2107-pt1000-codec
+        codec: sensecaps2107-pt1000-code
       AS923:
         id: sensecap-profile
         lorawanCertified: true
-        codec: sensecaps2107-pt1000-codec
+        codec: sensecaps2107-pt1000-code
       RU864-870:
         id: sensecap-profile
         lorawanCertified: true
-        codec: sensecaps2107-pt1000-codec
+        codec: sensecaps2107-pt1000-code
 
 # Dimensions in mm (optional)
 # Use width, height, length and/or diameter
